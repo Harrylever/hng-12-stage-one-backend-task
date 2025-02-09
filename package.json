@@ -1,14 +1,14 @@
 {
-  "name": "express-typescript-starter",
+  "name": "hng-stage-one-backend-task",
   "version": "1.0.0",
   "description": "A simple Express typescript starter project to bootstrap all your Express Backend Applications.",
-  "homepage": "https://github.com/Harrylever/express-typescript-starter#readme",
+  "homepage": "https://github.com/Harrylever/hng-stage-one-backend-task#readme",
   "bugs": {
-    "url": "https://github.com/Harrylever/express-typescript-starter/issues"
+    "url": "https://github.com/Harrylever/hng-stage-one-backend-task/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harrylever/express-typescript-starter.git"
+    "url": "git+https://github.com/Harrylever/hng-stage-one-backend-task.git"
   },
   "license": "ISC",
   "author": "",
@@ -27,6 +27,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "helmet": "^8.0.0",
+    "http-status-codes": "^2.3.0",
     "morgan": "^1.10.0",
     "winston": "^3.17.0"
   },
